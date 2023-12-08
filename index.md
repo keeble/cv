@@ -77,7 +77,9 @@ __Post-Doctoral Research Associate__, Diamond Light Source
 
 __Science City Research Alliance Research Fellow__, University of Warwick	
 
+
 __Post-Doctoral Research Assistant__, University of Warwick	
+
 
 - Academic research, scientific publications and presentation
 
