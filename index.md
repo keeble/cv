@@ -16,7 +16,7 @@ Senior Software Scientist at Diamond Light Source
 
 ### Personal Statement
 
-I'm a scientific software developer with a background in research, so I am a curious problem-solver who enjoys understanding the fundamentals of challenges. I am a strong communicator and excel at translating between technical domain-specific languages. I've managed junior researchers and graduate software engineers; led high-profile projects; and been an advocate for my group within the wider company. 
+I'm a scientific software developer with a background in materials science research, so I am a curious problem-solver who enjoys understanding the fundamentals of challenges. I am a strong communicator and excel at translating between technical domain-specific languages. I've managed junior researchers and graduate software engineers; led high-profile projects; and been an advocate for my group within the wider company. 
 
 ### Technical Skills
 
