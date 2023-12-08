@@ -3,7 +3,7 @@ layout: cv
 title: Dean Keeble's CV
 ---
 # Dean Keeble
-Scientific Software Devloper, Physicist, Materials Scientist. 
+Scientific Software Developer, Physicist, Materials Scientist. 
 
 <div id="webaddress">
 <a href="https://github.com/keeble">github</a> |
@@ -16,7 +16,7 @@ Senior Software Scientist at Diamond Light Source
 
 ### Personal Statement
 
-I'm a scientific software developer with a background in materials science research, so I am a curious problem-solver who enjoys understanding the fundamentals of challenges. I am a strong communicator and excel at translating between technical domain-specific languages. I've managed junior researchers and graduate software engineers; led high-profile projects; and I've advocates for my group within the wider company, and represented the facility internationally.  
+I'm a scientific software developer with a background in materials science research, so I am a curious problem-solver who enjoys understanding the fundamentals of challenges. I am a strong communicator and excel at translating between technical domain-specific languages. I've managed junior researchers and graduate software engineers; led high-profile projects; I've advocated for my group within the wider company, and represented the facility internationally.  
 
 ### Technical Skills
 
