@@ -39,35 +39,46 @@ __Department of Physics, University of Warwick__
 
 ## Publications
 
-- 58 Publications | 1522 Citations | h-index: 20 |
-- Full list of publications available on [orcid](https://orcid.org/0000-0003-4225-3770).
+- 58 Publications | 1522 Citations | h-index: 20
+- _Full list of publications available on [orcid](https://orcid.org/0000-0003-4225-3770)._
 
  
 ## Occupation
 
 `Jan 2023 – present`
+
 __Senior Software Scientist__, Diamond Light Source	
+
 - Project management, leadership, 
 
 
 `May 2020 – Dec 2022`
+
 __Data Analysis Scientist__, Diamond Light Source	
+
 - Technique development, algorithm development, process automation. 
 
 
 `March 2015 – May 2020`
+
 __Beamline Scientist__, Diamond Light Source	
+
 - Customer liason and training, facility advocacy, instrument purchase and commissioning  
 
 
 `August 2014 – March 2015`
+
 __Post-Doctoral Research Associate__, Diamond Light Source
+
 - Facility establishment, instrument commissioning
 
 
 `September 209 – July 2014`
+
 __Science City Research Alliance Research Fellow__, University of Warwick	
+
 __Post-Doctoral Research Assistant__, University of Warwick	
+
 - Academic research, scientific publications and presentation
 
 <!-- ### Footer
