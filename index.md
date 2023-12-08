@@ -18,19 +18,19 @@ Senior Software Scientist at Diamond Light Source
 
 I'm a scientific software developer with a background in research, so I am a curious problem-solver who enjoys understanding the fundamentals of challenges. I am a strong communicator and excel at translating between technical domain-specific languages. I've managed junior researchers and graduate software engineers; led high-profile projects; and been an advocate for my group within the wider company. 
 
-### Specialized in
+### Technical Skills
 
-... ???
+Python, Git(hub|lab), Jira/Confluence, Linux, C++, slurm, UGE, bash, neovim, SQL; Windows & Office. 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Total scattering theory, pair distribution function, synchrotron experimetnal design including using liquids, gases, electric fields, extremes of pressure and temperature. 
 
 ## Education
 
 `2005 - 2009`
 __Department of Physics, University of Warwick__
-- Ph. D. _An investigation of the relationship between the structure and properties of some stacked perovskites_
+- Ph.D. _An investigation of the relationship between the structure and properties of some stacked perovskites_
 
 `2001 - 2005`
 __Department of Physics, University of Warwick__
@@ -41,6 +41,7 @@ __Department of Physics, University of Warwick__
 
 
 - 58 Publications | 1522 Citations | h-index 20 (as of Dec. 2023)
+
 
 Full list of publications available on [orcid](https://orcid.org/0000-0003-4225-3770).
 
