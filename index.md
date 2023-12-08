@@ -1,19 +1,18 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Dean Keeble's CV
 ---
-# Isaac Newton
+# Dean Keeble
 Physicist, Mathematician, Cambridge professor.
+Scientific Software Devloper, Physicist, Materials Scientist. 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://github.com/keeble">https://github.com/keeble</a>
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+Senior Software Scientist at Diamond Light Source 
 
 ### Specialized in
 
