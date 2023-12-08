@@ -3,42 +3,38 @@ layout: cv
 title: Dean Keeble's CV
 ---
 # Dean Keeble
-Physicist, Mathematician, Cambridge professor.
 Scientific Software Devloper, Physicist, Materials Scientist. 
 
 <div id="webaddress">
-<a href="https://github.com/keeble">https://github.com/keeble</a>
+<a href="https://github.com/keeble">github</a> |
+<a href="https://orcid.org/0000-0003-4225-3770">orcid</a>
 </div>
 
 ## Currently
 
-Senior Software Scientist at Diamond Light Source 
+Senior Software Scientist at Diamond Light Source
+
+### Personal Statement
+
+I'm a scientific software developer with a background in research, so I am a curious problem-solver who enjoys understanding the fundamentals of challenges. I am a strong communicator and excel at translating between technical domain-specific languages. I've managed junior researchers and graduate software engineers; led high-profile projects; and been an advocate for my group within the wider company. 
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+... ???
 
 ### Research interests
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
-
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2005 - 2009`
+__Department of Physics, University of Warwick__
+- Ph. D. _An investigation of the relationship between the structure and properties of some stacked perovskites_
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`2001 - 2005`
+__Department of Physics, University of Warwick__
+- MPhys 2:1
 
 
 ## Awards
@@ -53,23 +49,10 @@ Associate, *French Academy of Science*, Paris, France
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+- 58 Publications | 1522 Citations | h-index of 20
+A full list of publications is available on [orcid](https://orcid.org/0000-0003-4225-3770).
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
+ 
 ## Occupation
 
 `1600`
@@ -85,6 +68,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2023 -->
 
 
