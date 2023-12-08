@@ -46,33 +46,28 @@ __Department of Physics, University of Warwick__
 
 `Jan 2023 – present`
 __Senior Software Scientist__, Diamond Light Source	
-- Developing and maintaining analysis applications and libraries to support beamline users; technique development for novel data collections and processing algorithms
+- Project management, leadership, 
 
 
 `May 2020 – Dec 2022`
 __Data Analysis Scientist__, Diamond Light Source	
-- Development of new PDF processing software; deployment of new automated calibration and processing routines
+- Technique development, algorithm development, process automation. 
 
 
 `March 2015 – May 2020`
 __Beamline Scientist__, Diamond Light Source	
-- Development of data collection and analysis software; local contacting of user experiments; purchasing and commissioning of beamline hardware
+- Customer liason and training, facility advocacy, instrument purchase and commissioning  
 
 
 `August 2014 – March 2015`
 __Post-Doctoral Research Associate__, Diamond Light Source
-- Design and development of I15-1’s implementation of on-the-fly PDF calculation software, designing data correction algorithms and user experience
+- Facility establishment, instrument commissioning
 
 
-`July 2011 – July 2014`
+`September 209 – July 2014`
 __Science City Research Alliance Research Fellow__, University of Warwick	
-- Structure-property relationships in various functional materials
-
-
-`September 2009 – July 2011`
 __Post-Doctoral Research Assistant__, University of Warwick	
-- Studying the structures and optical properties of lithium niobate based materials
-
+- Academic research, scientific publications and presentation
 
 <!-- ### Footer
 
