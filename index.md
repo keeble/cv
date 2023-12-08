@@ -40,6 +40,7 @@ __Department of Physics, University of Warwick__
 ## Publications
 
 - 58 Publications;  1522 Citations;  h-index 20 (as of Dec. 2023)
+
 Full list of publications available on [orcid](https://orcid.org/0000-0003-4225-3770).
 
 
@@ -49,7 +50,7 @@ Full list of publications available on [orcid](https://orcid.org/0000-0003-4225-
 
 __Senior Software Scientist__, Diamond Light Source	
 
-- Project management, leadership and supervision, facility representation, 
+- Project management, leadership and supervision, facility representation 
 
 
 `May 2020 – Dec 2022`
