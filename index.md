@@ -39,7 +39,7 @@ __Department of Physics, University of Warwick__
 - MPhys 2:1
 
 
-## Publications
+### Publications
 
 58 Publications;  1522 Citations;  h-index 20 (as of Dec. 2023)
 
