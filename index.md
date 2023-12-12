@@ -16,13 +16,13 @@ Scientific Software Developer, Physicist, Materials Scientist.
 
 Senior Software Scientist at Diamond Light Source
 
-### Personal Statement
+## Personal Statement
 
 I'm a scientific software developer with a background in materials science research, so I am a curious problem-solver who enjoys understanding the fundamentals of challenges. I am a strong communicator and excel at translating between technical domain-specific languages. I've managed junior researchers and graduate software engineers; led high-profile projects; I've advocated for my group within the wider company, and represented the facility internationally.  
 
 ### Technical Skills
 
-Python, Git(hub/lab), Jira/Confluence, Linux, C++, slurm, UGE, bash, neovim, SQL; Windows & Office. 
+Python, Git(hub/lab), Jira/Confluence, Linux, C++, slurm, UGE, bash, neovim, SQL, marp; Windows & Office. 
 
 ### Research interests
 
@@ -51,30 +51,30 @@ Full list of publications available on [orcid](https://orcid.org/0000-0003-4225-
 
 __Senior Software Scientist__, Diamond Light Source	
 
-- Project management, leadership and supervision, facility representation
-_Leading high profile software projects; representing Diamond in collaborations with other international facilities; technique development for novel data collections and processing algorithms; management of PhD students and graduate scheme projects_
+- _project management / leadership and supervision / facility representation_
+- Leading high profile software projects; representing Diamond in collaborations with other international facilities; technique development for novel data collections and processing algorithms; management of PhD students and graduate scheme projects
 
 
 `May 2020 – Dec 2022`
 
 __Data Analysis Scientist__, Diamond Light Source	
 
-- Technique development, algorithm development, process automation
-_Developing and maintaining analysis applications and libraries to support beamline users; deployment of new automated routines_
+- _technique development / algorithm development / process automation_
+- Developing and maintaining analysis applications and libraries to support beamline users; deployment of new automated routines
 
 `March 2015 – May 2020`
 
 __Beamline Scientist__, Diamond Light Source	
 
-- Customer liaison and training, facility advocacy, equipment purchase and commissioning  
-_Being first point of contact for user experiments, covering safety, user training, scientific consultation and experiment optimisation; development of data collection and analysis software; purchasing and commissioning of beamline hardware_
+- customer liaison and training / facility advocacy / equipment purchase and commissioning_
+- Being first point of contact for user experiments, covering safety, user training, scientific consultation and experiment optimisation; development of data collection and analysis software; purchasing and commissioning of beamline hardware
 
 `August 2014 – March 2015`
 
 __Post-Doctoral Research Associate__, Diamond Light Source
 
-- Facility establishment, instrument commissioning
-_Installation, testing, and commissioning of instrument components; design and development of the instrument's bespoke on-the-fly data analysis software, designing data correction algorithms and user experience_
+- _facility establishment / instrument commissioning
+- Installation, testing, and commissioning of instrument components; design and development of the instrument's bespoke on-the-fly data analysis software, designing data correction algorithms and user experience
 
 `September 2009 – July 2014`
 
@@ -84,8 +84,8 @@ __Science City Research Alliance Research Fellow__, University of Warwick
 __Post-Doctoral Research Assistant__, University of Warwick	
 
 
-- Academic research, scientific publications and presentation
-_Investigating the structure-property relations in various single crystal ocides including Lithium Niobate_
+- _academic research / scientific publications and presentation_
+- Investigating the structure-property relations in various single crystal ocides including Lithium Niobate
 
 <!-- ### Footer
 
