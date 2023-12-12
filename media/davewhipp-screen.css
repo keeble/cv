@@ -16,7 +16,7 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-	margin: 5cm;
+	margin: 0;
 	padding: 0;
 	border: 0;
 	font-size: 100%;
@@ -125,6 +125,8 @@ h1 {
 	line-height: 1em;
 	position: relative;
 	left: 25%;
+	margin-bottom: 2em;
+	margin-top: 2em;
 }
 
 h1+p {
