@@ -52,6 +52,7 @@ Full list of publications available on [orcid](https://orcid.org/0000-0003-4225-
 __Senior Software Scientist__, Diamond Light Source	
 
 _project management / leadership and supervision / facility representation_
+
 Leading high profile software projects; representing Diamond in collaborations with other international facilities; technique development for novel data collections and processing algorithms; management of PhD students and graduate scheme projects
 
 
@@ -60,20 +61,23 @@ Leading high profile software projects; representing Diamond in collaborations w
 __Data Analysis Scientist__, Diamond Light Source	
 
 _technique development / algorithm development / process automation_
+
 Developing and maintaining analysis applications and libraries to support beamline users; deployment of new automated routines
 
 `March 2015 – May 2020`
 
 __Beamline Scientist__, Diamond Light Source	
 
-customer liaison and training / facility advocacy / equipment purchase and commissioning_
+_customer liaison and training / facility advocacy / equipment purchase and commissioning_
+
 Being first point of contact for user experiments, covering safety, user training, scientific consultation and experiment optimisation; development of data collection and analysis software; purchasing and commissioning of beamline hardware
 
 `August 2014 – March 2015`
 
 __Post-Doctoral Research Associate__, Diamond Light Source
 
-_facility establishment / instrument commissioning
+_facility establishment / instrument commissioning_
+
 Installation, testing, and commissioning of instrument components; design and development of the instrument's bespoke on-the-fly data analysis software, designing data correction algorithms and user experience
 
 `September 2009 – July 2014`
@@ -85,6 +89,7 @@ __Post-Doctoral Research Assistant__, University of Warwick
 
 
 _academic research / scientific publications and presentation_
+
 Investigating the structure-property relations in various single crystal ocides including Lithium Niobate
 
 <!-- ### Footer
