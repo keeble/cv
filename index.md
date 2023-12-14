@@ -48,18 +48,21 @@ Leading high profile software projects; representing Diamond in collaborations w
 
 `May 2020 – Dec 2022`
 __Data Analysis Scientist__, Diamond Light Source	
+
 _technique development / algorithm development / process automation_
 
 Developing and maintaining analysis applications and libraries to support beamline users; deployment of new automated routines
 
 `March 2015 – May 2020`
 __Beamline Scientist__, Diamond Light Source
+
 _customer liaison and training / facility advocacy / equipment purchase and commissioning_
 
 Being first point of contact for user experiments, covering safety, user training, scientific consultation and experiment optimisation; development of data collection and analysis software; purchasing and commissioning of beamline hardware
 
 `August 2014 – March 2015`
 __Post-Doctoral Research Associate__, Diamond Light Source
+
 _facility establishment / instrument commissioning_
 
 Installation, testing, and commissioning of instrument components; design and development of the instrument's bespoke on-the-fly data analysis software, designing data correction algorithms and user experience
