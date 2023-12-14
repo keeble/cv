@@ -41,7 +41,7 @@ Total scattering theory, pair distribution function, synchrotron experimetnal de
 
 `Jan 2023 – present`
 
-__Senior Software Scientist__, Diamond Light Source	
+__Senior Software Scientist, Diamond Light Source__
 
 _project management / leadership and supervision / facility representation_
 
