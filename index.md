@@ -38,10 +38,8 @@ Total scattering theory, pair distribution function, synchrotron experimetnal de
 
 
 ## Occupation
-
 `Jan 2023 – present`
-
-__Senior Software Scientist, Diamond Light Source__
+__Senior Software Scientist__, Diamond Light Source
 
 _project management / leadership and supervision / facility representation_
 
@@ -49,31 +47,24 @@ Leading high profile software projects; representing Diamond in collaborations w
 
 
 `May 2020 – Dec 2022`
-
 __Data Analysis Scientist__, Diamond Light Source	
-
 _technique development / algorithm development / process automation_
 
 Developing and maintaining analysis applications and libraries to support beamline users; deployment of new automated routines
 
 `March 2015 – May 2020`
-
-__Beamline Scientist__, Diamond Light Source	
-
+__Beamline Scientist__, Diamond Light Source
 _customer liaison and training / facility advocacy / equipment purchase and commissioning_
 
 Being first point of contact for user experiments, covering safety, user training, scientific consultation and experiment optimisation; development of data collection and analysis software; purchasing and commissioning of beamline hardware
 
 `August 2014 – March 2015`
-
 __Post-Doctoral Research Associate__, Diamond Light Source
-
 _facility establishment / instrument commissioning_
 
 Installation, testing, and commissioning of instrument components; design and development of the instrument's bespoke on-the-fly data analysis software, designing data correction algorithms and user experience
 
 `September 2009 – July 2014`
-
 __Science City Research Alliance Research Fellow__, University of Warwick	
 
 
