@@ -24,26 +24,17 @@ I'm a scientific software developer with a background in materials science resea
 
 Python, Git(hub/lab), Jira/Confluence, Linux, C++, slurm, UGE, bash, neovim, SQL, marp; Windows & Office. 
 
-### Research interests
-
-Total scattering theory, pair distribution function, synchrotron experimetnal design including using liquids, gases, electric fields, extremes of pressure and temperature. 
-
-## Education
-
-`2005 - 2009`
-__Department of Physics, University of Warwick__
-- Ph.D. _An investigation of the relationship between the structure and properties of some stacked perovskites_
-
-`2001 - 2005`
-__Department of Physics, University of Warwick__
-- MPhys 2:1
-
 
 ### Publications
 
 58 Publications;  1522 Citations;  h-index 20 (as of Dec. 2023)
 
 Full list of publications available on [orcid](https://orcid.org/0000-0003-4225-3770).
+
+
+### Research interests
+
+Total scattering theory, pair distribution function, synchrotron experimetnal design including using liquids, gases, electric fields, extremes of pressure and temperature. 
 
 
 ## Occupation
@@ -92,6 +83,20 @@ __Post-Doctoral Research Assistant__, University of Warwick
 _academic research / scientific publications and presentation_
 
 Investigating the structure-property relations in various single crystal ocides including Lithium Niobate
+
+
+## Education
+
+`2005 - 2009`
+__Department of Physics, University of Warwick__
+- Ph.D. _An investigation of the relationship between the structure and properties of some stacked perovskites_
+
+`2001 - 2005`
+__Department of Physics, University of Warwick__
+- MPhys 2:1
+
+
+
 
 <!-- ### Footer
 
