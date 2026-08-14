@@ -19,13 +19,9 @@ Principal Scientist at Diamond Light Source
 ## Personal Statement
 
 I'm a scientist whose passion is enabling experiments that require high energy photons. My background is in materials science and scientific software, so I am a curious problem-solver who enjoys understanding the fundamentals of challenges. I am a strong communicator and excel at translating between technical domain-specific languages. I've managed scientists, technicians, and graduate software engineers; I've led high-profile projects; and represented the facility internationally.  
-
 ### Technical Skills
-
 Python, Git(hub/lab), Jira/Confluence, Linux, C++, slurm, UGE, bash, neovim, SQL, marp; Windows & Office. 
-
 ### Research interests
-
 Total scattering theory, pair distribution function, synchrotron experimetnal design including using liquids, gases, electric fields, extremes of pressure and temperature. 
 
 

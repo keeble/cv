@@ -49,6 +49,34 @@ table {
 
 /* end of reset */
 
+@font-face {
+	font-family: "CV Sans";
+	font-style: normal;
+	font-weight: 400;
+	src: url("fonts/NotoSans-Regular.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "CV Sans";
+	font-style: italic;
+	font-weight: 400;
+	src: url("fonts/NotoSans-Italic.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "CV Sans";
+	font-style: normal;
+	font-weight: 700;
+	src: url("fonts/NotoSans-Bold.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "CV Mono";
+	font-style: normal;
+	font-weight: 400;
+	src: url("fonts/NotoSansMono-Regular.ttf") format("truetype");
+}
+
 
 
 body {
@@ -56,7 +84,7 @@ body {
 	font-size: 100%;
 	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif;
+	font-family: "CV Sans",system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Liberation Sans",sans-serif;
 	margin-top: 1em;
 	margin-left: 1em;
 }
@@ -73,7 +101,7 @@ code {
 	font: normal normal;
 	font-size: 90%;
 	/*line-height: 1em;*/
-	font-family: "SFMono-Regular", Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+	font-family: "CV Mono",ui-monospace,"SFMono-Regular",Menlo,Consolas,"Liberation Mono",monospace;
 	color: #aaa;
 }
 
@@ -115,7 +143,7 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif;
+	font-family: "CV Sans",system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Liberation Sans",sans-serif;
 	width: 80%;
 }
 
@@ -167,7 +195,7 @@ a:hover {
 	position: relative;
 	left: 25%;
 	color: #bc412b;
-	font-family: "SFMono-Regular", Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+	font-family: "CV Mono",ui-monospace,"SFMono-Regular",Menlo,Consolas,"Liberation Mono",monospace;
 	font-size: 100%;
 }
 
