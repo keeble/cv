@@ -35,7 +35,6 @@ Total scattering theory, pair distribution function, synchrotron experimetnal de
 
 Full list of publications available on [orcid](https://orcid.org/0000-0003-4225-3770).
 
-
 ## Occupation
 
 `Aug 2024 - present`
