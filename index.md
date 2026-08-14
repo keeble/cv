@@ -14,11 +14,11 @@ Scientific Software Developer, Physicist, Materials Scientist.
 
 ## Currently
 
-Senior Software Scientist at Diamond Light Source
+Principal Scientist at Diamond Light Source
 
 ## Personal Statement
 
-I'm a scientific software developer with a background in materials science research, so I am a curious problem-solver who enjoys understanding the fundamentals of challenges. I am a strong communicator and excel at translating between technical domain-specific languages. I've managed junior researchers and graduate software engineers; led high-profile projects; been the spokesperson for my group within the wider company; and represented the facility internationally.  
+I'm a scientist whose passion is enabling experiments that require high energy photons. My background is in materials science and scientific software, so I am a curious problem-solver who enjoys understanding the fundamentals of challenges. I am a strong communicator and excel at translating between technical domain-specific languages. I've managed scientists, technicians, and graduate software engineers; I've led high-profile projects; and represented the facility internationally.  
 
 ### Technical Skills
 
@@ -48,7 +48,15 @@ Full list of publications available on [orcid](https://orcid.org/0000-0003-4225-
 
 ## Occupation
 
-`Jan 2023 – present`
+`Aug 2024 - present`
+__Principal Beamline Scientist__, Diamond Light Source
+
+_instrument management / project leadership / scientific strategy_
+
+Responsible for the I15-1 beamline; line management, budget responsibility, scheduling, strategy and operational decision making
+_
+
+`Jan 2023 – Aug 2024`
 
 __Senior Software Scientist__, Diamond Light Source	
 
@@ -95,4 +103,4 @@ Investigating the structure-property relations in various single crystal ocides 
 
 <!-- ### Footer
 
-Last updated: December 2023 -->
+Last updated: August 2026 -->
