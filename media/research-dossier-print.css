@@ -1,0 +1,160 @@
+/* Research Dossier - print */
+
+@font-face {
+  font-family: "CV Sans";
+  font-style: normal;
+  font-weight: 400;
+  src: url("fonts/NotoSans-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "CV Sans";
+  font-style: italic;
+  font-weight: 400;
+  src: url("fonts/NotoSans-Italic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "CV Sans";
+  font-style: normal;
+  font-weight: 700;
+  src: url("fonts/NotoSans-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "CV Mono";
+  font-style: normal;
+  font-weight: 400;
+  src: url("fonts/NotoSansMono-Regular.ttf") format("truetype");
+}
+
+:root {
+  --text: #1d2025;
+  --muted: #555e66;
+  --accent: #7c241c;
+  --line: #b9b3aa;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "CV Sans", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Liberation Sans", sans-serif;
+  color: var(--text);
+  background: #fff;
+  line-height: 1.45;
+  font-size: 10.7pt;
+}
+
+#main {
+  margin: 0;
+  padding: 0;
+}
+
+#content {
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  margin: 0;
+}
+
+h1 {
+  font-family: "Iowan Old Style", "Book Antiqua", "Palatino Linotype", Palatino, "URW Palladio L", serif;
+  font-size: 25pt;
+  line-height: 1.06;
+  margin-bottom: 4pt;
+}
+
+h1 + p {
+  margin: 0 0 11pt;
+  color: var(--muted);
+  font-size: 10.4pt;
+}
+
+#webaddress {
+  font-family: "CV Mono", ui-monospace, "SFMono-Regular", Menlo, Consolas, "Liberation Mono", monospace;
+  font-size: 8.8pt;
+  color: #3f4650;
+  margin-bottom: 11pt;
+}
+
+#webaddress a {
+  text-decoration: none;
+  color: inherit;
+}
+
+h2 {
+  margin-top: 13pt;
+  margin-bottom: 4pt;
+  padding-top: 5pt;
+  border-top: 0.8pt solid var(--line);
+  color: var(--accent);
+  font-size: 8.8pt;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+h3 {
+  margin-top: 9pt;
+  margin-bottom: 2pt;
+  font-size: 10.7pt;
+}
+
+p {
+  margin: 2pt 0 7pt;
+}
+
+p code {
+  font-family: "CV Mono", ui-monospace, "SFMono-Regular", Menlo, Consolas, "Liberation Mono", monospace;
+  color: #30465a;
+  font-size: 8.3pt;
+}
+
+ul {
+  margin: 0 0 9pt 0;
+  padding: 0;
+  list-style: none;
+}
+
+li {
+  margin: 0 0 4pt;
+  padding-left: 10pt;
+  position: relative;
+}
+
+li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 6pt;
+  width: 4.2pt;
+  height: 4.2pt;
+  border-radius: 50%;
+  background: #616d79;
+}
+
+a {
+  color: #233b53;
+  text-decoration: none;
+}
+
+strong {
+  font-weight: 700;
+}
+
+em {
+  color: var(--muted);
+  font-style: italic;
+}
