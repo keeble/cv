@@ -32,7 +32,7 @@ Total scattering theory, pair distribution function, synchrotron experimetnal de
 
 ### Publications
 
-73 Publications;  2428 Citations;  h-index 25 (as of Dec. 2023)
+73 Publications;  2428 Citations;  h-index 25 (as of Aug. 2026)
 
 Full list of publications available on [orcid](https://orcid.org/0000-0003-4225-3770).
 
