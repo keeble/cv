@@ -1,0 +1,205 @@
+/* Research Dossier - screen */
+
+@font-face {
+  font-family: "CV Sans";
+  font-style: normal;
+  font-weight: 400;
+  src: url("fonts/NotoSans-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "CV Sans";
+  font-style: italic;
+  font-weight: 400;
+  src: url("fonts/NotoSans-Italic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "CV Sans";
+  font-style: normal;
+  font-weight: 700;
+  src: url("fonts/NotoSans-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "CV Mono";
+  font-style: normal;
+  font-weight: 400;
+  src: url("fonts/NotoSansMono-Regular.ttf") format("truetype");
+}
+
+:root {
+  --bg: #f7f4ef;
+  --surface: rgba(255, 255, 255, 0.7);
+  --text: #1f2328;
+  --muted: #5e676f;
+  --accent: #9e2f25;
+  --accent-2: #1f4a67;
+  --line: #d8d1c6;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "CV Sans", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Liberation Sans", sans-serif;
+  color: var(--text);
+  background:
+    radial-gradient(1200px 500px at 100% -20%, rgba(31, 74, 103, 0.12), transparent 70%),
+    radial-gradient(1000px 450px at -10% 0%, rgba(158, 47, 37, 0.11), transparent 70%),
+    linear-gradient(180deg, #f8f6f1 0%, var(--bg) 100%);
+  line-height: 1.6;
+  font-size: 17px;
+}
+
+#main {
+  max-width: 1040px;
+  margin: 0 auto;
+  padding: 3rem 1.25rem 4rem;
+}
+
+#content {
+  background: var(--surface);
+  border: 1px solid rgba(216, 209, 198, 0.85);
+  border-radius: 18px;
+  padding: 2.3rem 2.2rem 2.4rem;
+  box-shadow: 0 10px 30px rgba(31, 35, 40, 0.07);
+}
+
+h1,
+h2,
+h3,
+h4 {
+  margin: 0;
+  letter-spacing: 0.01em;
+}
+
+h1 {
+  font-family: "Iowan Old Style", "Book Antiqua", "Palatino Linotype", Palatino, "URW Palladio L", serif;
+  font-size: clamp(2.2rem, 5vw, 3.3rem);
+  line-height: 1.03;
+  color: #1e2730;
+  margin-bottom: 0.45rem;
+}
+
+h1 + p {
+  color: var(--accent-2);
+  font-weight: 600;
+  max-width: 58ch;
+  margin-bottom: 1.5rem;
+}
+
+#webaddress {
+  font-family: "CV Mono", ui-monospace, "SFMono-Regular", Menlo, Consolas, "Liberation Mono", monospace;
+  font-size: 0.9rem;
+  color: var(--muted);
+  margin-bottom: 2.2rem;
+}
+
+#webaddress a {
+  color: var(--accent-2);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+
+#webaddress a:hover {
+  border-bottom-color: var(--accent-2);
+}
+
+h2 {
+  margin-top: 2.2rem;
+  margin-bottom: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-size: 0.82rem;
+  color: var(--accent);
+  border-top: 1px solid var(--line);
+  padding-top: 0.85rem;
+}
+
+h3 {
+  margin-top: 1.4rem;
+  font-size: 1.1rem;
+  color: #202833;
+}
+
+p {
+  margin: 0.45rem 0 0.95rem;
+  max-width: 75ch;
+}
+
+p code {
+  display: inline-block;
+  font-family: "CV Mono", ui-monospace, "SFMono-Regular", Menlo, Consolas, "Liberation Mono", monospace;
+  color: var(--accent-2);
+  background: rgba(31, 74, 103, 0.08);
+  border: 1px solid rgba(31, 74, 103, 0.14);
+  border-radius: 999px;
+  padding: 0.2rem 0.6rem;
+  font-size: 0.78rem;
+  letter-spacing: 0.02em;
+}
+
+ul {
+  margin: 0.25rem 0 1.1rem 0;
+  padding: 0;
+  max-width: 78ch;
+  list-style: none;
+}
+
+li {
+  position: relative;
+  padding-left: 1.05rem;
+  margin-bottom: 0.45rem;
+}
+
+li::before {
+  content: "";
+  width: 0.42rem;
+  height: 0.42rem;
+  border-radius: 50%;
+  position: absolute;
+  top: 0.52rem;
+  left: 0;
+  background: linear-gradient(180deg, var(--accent), #7f201b);
+}
+
+a {
+  color: var(--accent-2);
+}
+
+a:hover {
+  color: #12324a;
+}
+
+strong {
+  font-weight: 700;
+  color: #1d2731;
+}
+
+em {
+  font-style: italic;
+  color: var(--muted);
+}
+
+@media (max-width: 780px) {
+  body {
+    font-size: 16px;
+  }
+
+  #content {
+    border-radius: 14px;
+    padding: 1.5rem 1.2rem 1.7rem;
+  }
+
+  h1 {
+    font-size: clamp(2rem, 9vw, 2.5rem);
+  }
+}

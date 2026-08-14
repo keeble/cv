@@ -1,0 +1,153 @@
+/* Precision Minimal - print */
+
+@font-face {
+  font-family: "CV Sans";
+  font-style: normal;
+  font-weight: 400;
+  src: url("fonts/NotoSans-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "CV Sans";
+  font-style: italic;
+  font-weight: 400;
+  src: url("fonts/NotoSans-Italic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "CV Sans";
+  font-style: normal;
+  font-weight: 700;
+  src: url("fonts/NotoSans-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "CV Mono";
+  font-style: normal;
+  font-weight: 400;
+  src: url("fonts/NotoSansMono-Regular.ttf") format("truetype");
+}
+
+:root {
+  --text: #1f2933;
+  --muted: #4b5563;
+  --line: #c7d0d9;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "CV Sans", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Liberation Sans", sans-serif;
+  color: var(--text);
+  background: #fff;
+  line-height: 1.42;
+  font-size: 10.4pt;
+}
+
+#main,
+#content {
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  margin: 0;
+}
+
+h1 {
+  font-size: 23pt;
+  line-height: 1.08;
+  margin-bottom: 4pt;
+}
+
+h1 + p {
+  margin: 0 0 9pt;
+  color: var(--muted);
+}
+
+#webaddress {
+  margin: 0 0 10pt;
+  color: #3f4a57;
+  font-size: 8.8pt;
+  font-family: "CV Mono", ui-monospace, "SFMono-Regular", Menlo, Consolas, "Liberation Mono", monospace;
+}
+
+#webaddress a {
+  color: inherit;
+  text-decoration: none;
+}
+
+h2 {
+  margin-top: 11pt;
+  margin-bottom: 4pt;
+  padding-bottom: 3pt;
+  border-bottom: 0.8pt solid var(--line);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 8.6pt;
+  color: #465260;
+}
+
+h3 {
+  margin-top: 8pt;
+  margin-bottom: 2pt;
+  font-size: 10.3pt;
+}
+
+p {
+  margin: 2pt 0 6pt;
+}
+
+p code {
+  font-family: "CV Mono", ui-monospace, "SFMono-Regular", Menlo, Consolas, "Liberation Mono", monospace;
+  color: #314659;
+  font-size: 8.2pt;
+}
+
+ul {
+  list-style: none;
+  margin: 0 0 8pt;
+  padding: 0;
+}
+
+li {
+  margin: 0 0 3pt;
+  padding-left: 9pt;
+  position: relative;
+}
+
+li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 6pt;
+  width: 3.5pt;
+  height: 3.5pt;
+  border-radius: 50%;
+  background: #6c7a88;
+}
+
+a {
+  color: #2a4861;
+  text-decoration: none;
+}
+
+strong {
+  font-weight: 700;
+}
+
+em {
+  color: var(--muted);
+  font-style: italic;
+}
