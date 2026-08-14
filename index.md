@@ -49,12 +49,12 @@ Full list of publications available on [orcid](https://orcid.org/0000-0003-4225-
 ## Occupation
 
 `Aug 2024 - present`
+
 __Principal Beamline Scientist__, Diamond Light Source
 
 _instrument management / project leadership / scientific strategy_
 
 Responsible for the I15-1 beamline; line management, budget responsibility, scheduling, strategy and operational decision making
-
 
 `Jan 2023 – Aug 2024`
 
@@ -63,7 +63,6 @@ __Senior Software Scientist__, Diamond Light Source
 _project management / leadership and supervision / facility representation_
 
 Leading high profile software projects; representing Diamond in collaborations with other international facilities; technique development for novel data collections and processing algorithms; management of PhD students and graduate scheme projects
-
 
 `May 2020 – Dec 2022`
 
