@@ -54,7 +54,7 @@ __Principal Beamline Scientist__, Diamond Light Source
 _instrument management / project leadership / scientific strategy_
 
 Responsible for the I15-1 beamline; line management, budget responsibility, scheduling, strategy and operational decision making
-_
+
 
 `Jan 2023 – Aug 2024`
 
