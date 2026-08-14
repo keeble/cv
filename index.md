@@ -3,9 +3,9 @@ layout: cv
 title: Dean Keeble's CV
 ---
 
-# Dean Keeble
+# Dean S. Keeble
 
-Scientific Software Developer, Physicist, Materials Scientist. 
+Principal Scientist, Scientific Software Developer, Physicist, Materials Scientist. 
 
 <div id="webaddress">
 <a href="https://github.com/keeble">github</a> |
@@ -27,7 +27,6 @@ Python, Git(hub/lab), Jira/Confluence, Linux, C++, slurm, UGE, bash, neovim, SQL
 ### Research interests
 
 Total scattering theory, pair distribution function, synchrotron experimetnal design including using liquids, gases, electric fields, extremes of pressure and temperature. 
-
 
 
 ### Publications
