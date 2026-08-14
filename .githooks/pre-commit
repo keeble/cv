@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Regenerate the PDF if any CV source files have changed
+if git diff --cached --name-only | grep -qE '^(index\.md|_layouts/|media/|_config\.yml)'; then
+  echo "CV source changed — regenerating PDF..."
+  "$(git rev-parse --show-toplevel)/scripts/build-pdf.sh"
+  git add cv.pdf
+  echo "cv.pdf staged."
+fi
