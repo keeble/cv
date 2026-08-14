@@ -28,15 +28,6 @@ Python, Git(hub/lab), Jira/Confluence, Linux, C++, slurm, UGE, bash, neovim, SQL
 
 Total scattering theory, pair distribution function, synchrotron experimetnal design including using liquids, gases, electric fields, extremes of pressure and temperature. 
 
-## Education
-
-`2005 - 2009`
-__Department of Physics, University of Warwick__
-- Ph.D. _An investigation of the relationship between the structure and properties of some stacked perovskites_
-
-`2001 - 2005`
-__Department of Physics, University of Warwick__
-- MPhys 2:1
 
 
 ### Publications
@@ -99,6 +90,16 @@ __Post-Doctoral Research Assistant__, University of Warwick
 _academic research / scientific publications and presentation_
 
 Investigating the structure-property relations in various single crystal ocides including Lithium Niobate
+
+## Education
+
+`2005 - 2009`
+__Department of Physics, University of Warwick__
+- Ph.D. _An investigation of the relationship between the structure and properties of some stacked perovskites_
+
+`2001 - 2005`
+__Department of Physics, University of Warwick__
+- MPhys 2:1
 
 <!-- ### Footer
 
